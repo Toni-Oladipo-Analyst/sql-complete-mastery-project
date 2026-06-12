@@ -84,6 +84,6 @@ This project demonstrates my journey in learning SQL from basics to advanced con
 
 ---
 
-## Author
+## Oladipo Oluwatoni Paul
 Beginner Data Analyst  
 Learning SQL, Excel, and Power BI

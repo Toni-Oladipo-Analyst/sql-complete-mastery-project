@@ -1,1 +1,9 @@
-
+ProductID,ProductName,Category,Price,Cost
+P001,Laptop,Electronics,800,600
+P002,Phone,Electronics,500,350
+P003,Tablet,Electronics,300,200
+P004,Desk,Furniture,250,150
+P005,Chair,Furniture,120,70
+P006,Headphones,Accessories,80,40
+P007,Monitor,Electronics,200,120
+P008,Keyboard,Accessories,50,20
